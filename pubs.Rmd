@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html)
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html)
 
 [Google scholar](https://scholar.google.com/citations?user=tSQCC-QAAAAJ&hl=en) <br/>
 
