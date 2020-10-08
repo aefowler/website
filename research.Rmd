@@ -14,7 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I am interested in the evolution and ecology of plant-animal-microbe interactions, including host-parasite and host-symbiont. Bees are great models to study these topics because they eat and use plants and some species host a variety of microbes in their guts and nests -- some of which are beneficial, others pathogenic. Bees also play important roles as pollinators, but some are experiencing population declines, like many other insects. I hope to learn more about the biology of these interactions and the factors that impact bee health so we can better support their populations in the face of stressors such as pathogens, pesticides, habitat loss, and climate change. I hope that my work will improve pollinator health as well as support the livelihoods of farmers and sustainable food production. 
 
-I am also a budding data scientist and excited about writing and sharing code for data processing, visualization, and analysis.
+I am also a budding data scientist and excited about writing and sharing code for data processing, visualization, and analysis. I'm currently taking a course titled "Evolutionary Genomics & Bioinformatics", and am updating my progress [here](). 
 
 <img src="images/IMG_7741.JPG" width="23.5%"> <img src="images/IMG_6104.JPG" width="31.5%"> <img src="images/IMG_1530.JPG" width="42%">
 
@@ -26,9 +26,9 @@ How do organisms defend themselves against pathogens? To investigate this, I foc
 
 For my dissertation, I am researching how pollen diet impacts parasite infection in bees by potentially altering the immune system and gut microbiome. Pollen from sunflowers and goldenrod (Family: Asteraceae) reduce a gut pathogen in bumble bees ([1](papers/Giacomini2018.pdf),[2](papers/locascio2019.pdf)). In collaboration with the [Sadd Lab](https://about.illinoisstate.edu/bmsadd/), I am investigating how a sunflower pollen diet impacts the bumble bee immune system as a potential driver of the observed changes in infection. Additionally, I am interested in how diet quality and diversity impact pathogen resistance via changes in the gut microbiome. In collaboration with the [McFrederick Lab](https://melittology.ucr.edu/), I am investigating how a diet of sunflower pollen and parasite infection affects the bacterial communities within the gut. These two projects are funded by the USDA National Institute of Food & Agriculture. 
 
-<img src="images/IMG_12403JPG.JPG">
+<img src="images/IMG_12403JPG.JPG" width = "65%"> <img src = "images/IMG_12890.JPG" width = "33%">
 
-Sunflowers at JM Pasiecnik Farm in Deerfield, MA 
+Sunflowers at JM Pasiecnik Farm (left) and cut flowers at The Bars Farm (right), both in Deerfield, MA.
 
 #### Social Behavior
 
