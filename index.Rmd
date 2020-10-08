@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html)
 
 #### Welcome! 
-My name is Alison, I am a PhD candidate and NSF Fellow in the [Adler Lab](https://blogs.umass.edu/lynnadler/) and the [Organismic and Evolutionary Biology](https://gpls.cns.umass.edu/oeb) program at the University of Massachusetts Amherst. I'm interested in the ecology and evolution of species interactions, specifically those of plants, pollinators, and microbes. On this site, you'll find information about my scientific interests and current projects. 
+My name is Alison, I am a PhD candidate and NSF Fellow in the [Adler Lab](https://blogs.umass.edu/lynnadler/) and the [Organismic and Evolutionary Biology](https://gpls.cns.umass.edu/oeb) program at the University of Massachusetts Amherst. I'm interested in the ecology and evolution of species interactions, specifically those of plants, pollinators, and microbes.
 
 <img src="images/IMG_1230.JPG" width="24%">
 <img src="images/IMG_1307.JPG" width="24%"> <img src="images/IMG_1289.JPG" width="24%"> <img src="images/IMG_6553.JPG" width="24%"> 

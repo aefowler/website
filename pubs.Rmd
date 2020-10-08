@@ -11,6 +11,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Google scholar](https://scholar.google.com/citations?user=tSQCC-QAAAAJ&hl=en) <br/>
 
+I'm in the process of adding the PDFs here. In the meantime, feel free to email me (aefowler [at] umass.edu) if you would like a copy. 
+
 Fowler AE, Stone EC, Irwin RE, Adler LS. 2020. Sunflower pollen reduces a gut pathogen in worker and queen but not male bumble bees. Ecological Entomology. https://doi.org/10.1111/een.12915 <br/>
 
 Adler LS, Fowler AE, Malfi RL, Anderson PR, Coppinger LM, Deneen PM, Lopez S, Irwin RE, Farrell IW, Stevenson PC. 2020. Assessing chemical mechanisms underlying the effects of sunflower pollen on a gut pathogen in bumble bees. Journal of Chemical Ecology. 46:649-658.<br/>

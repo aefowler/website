@@ -9,4 +9,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html)
 
-Coming soon... Stay tuned. :) 
+Coming soon! 
