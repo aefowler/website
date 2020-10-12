@@ -10,28 +10,34 @@ knitr::opts_chunk$set(echo = TRUE)
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html)
 
 
-## Interests
+### Interests
 
 I am interested in the evolution and ecology of plant-animal-microbe interactions, including host-parasite and host-symbiont. Bees are great models to study these topics because they eat and use plants and some species host a variety of microbes in their guts and nests -- some of which are beneficial, others pathogenic. Bees also play important roles as pollinators, but some are experiencing population declines, like many other insects. I hope to learn more about the biology of these interactions and the factors that impact bee health so we can better support their populations in the face of stressors such as pathogens, pesticides, habitat loss, and climate change. I hope that my work will improve pollinator health as well as support the livelihoods of farmers and sustainable food production. 
 
-I am also a budding data scientist and excited about writing and sharing code for data processing, visualization, and analysis. I'm currently taking a course titled "Evolutionary Genomics & Bioinformatics", and am updating my progress [here](). 
+I am also a budding data scientist and excited about writing and sharing code for data processing, visualization, and analysis. I'm currently taking a course titled "Evolutionary Genomics & Bioinformatics", and am updating my progress [here](aefowler.github.io/genomics-course/). 
 
-<img src="images/IMG_7741.JPG" width="23.5%"> <img src="images/IMG_6104.JPG" width="31.5%"> <img src="images/IMG_1530.JPG" width="42%">
+<img src="images/IMG_7741.JPG" width="22%"> <img src="images/IMG_1285.JPG" width="22%"> <img src="images/IMG_8217.JPG" width="24%"> <img src="images/IMG_3617.JPG" width="30%"> 
 
-## Current Projects
+### Current Projects 
 
 How do organisms defend themselves against pathogens? To investigate this, I focus on three aspects of host life history in bees that may affect pathogen susceptibility/resistance: diet, host-associated microbes, and social behavior.
 
-#### Diet, Immunity, & Gut Microbes
+##### Diet, Immunity, & Gut Microbes
 
 For my dissertation, I am researching how pollen diet impacts parasite infection in bees by potentially altering the immune system and gut microbiome. Pollen from sunflowers and goldenrod (Family: Asteraceae) reduce a gut pathogen in bumble bees ([1](papers/Giacomini2018.pdf),[2](papers/locascio2019.pdf)). In collaboration with the [Sadd Lab](https://about.illinoisstate.edu/bmsadd/), I am investigating how a sunflower pollen diet impacts the bumble bee immune system as a potential driver of the observed changes in infection. Additionally, I am interested in how diet quality and diversity impact pathogen resistance via changes in the gut microbiome. In collaboration with the [McFrederick Lab](https://melittology.ucr.edu/), I am investigating how a diet of sunflower pollen and parasite infection affects the bacterial communities within the gut. These two projects are funded by the USDA National Institute of Food & Agriculture. 
 
-<img src="images/IMG_12403JPG.JPG" width = "65%"> <img src = "images/IMG_12890.JPG" width = "33%">
+<center> <img src="images/IMG_12403JPG.JPG"> </center>
 
-Sunflowers at JM Pasiecnik Farm (left) and cut flowers at The Bars Farm (right), both in Deerfield, MA.
+<center> Sunflowers at JM Pasiecnik Farm (left) in Deerfield, MA. </center>
 
-#### Social Behavior
+##### Social Behavior
 
 I am also interested in the evolution of social behavior and the costs and benefits associated with group-living, particularly in the context of parasite transmission and the evolution of host defense. Social interactions can affect many other life history traits, particularly those related to disease. I am studying immune function and gut microbial communities in social (bumble bees) and solitary bees (sweat bees). I hope to compare patterns in order to better understand how the adoption of sociality has impacted selection for traits related to pathogen defense such as immunity and the role of beneficial microbes. This project is funded by a Northeast Sustainable Agriculture Research & Education graduate student grant. 
 
-I will be posting regular updates about these research projects in my [Blog page](blog.html).
+
+<center> <img src="images/bees.gif" width="38.5%"> </center>
+
+One of our bumble bee colonies in the lab. Most of the bees you see that are moving are workers and the large bee hanging out towards the bottom is the queen. The queen lays all the eggs and the workers do the foraging and rearing of the offspring. Workers are all non-reproductive females. This species is Bombus impatiens, the Common Eastern Bumble Bee. [More information about bumble bees here](https://xerces.org/bumblebees/about). 
+
+<br/>
+Check out my [Blog page](blog.html) for updates on my research projects. 
