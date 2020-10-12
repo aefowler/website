@@ -9,4 +9,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html)
 
-Coming soon! 
+#### [October 12, 2020](blog_1.html)
+
+Check out my first blog post where I reflect on my summer field work & what I'm up to now. 
