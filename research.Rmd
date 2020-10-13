@@ -28,16 +28,16 @@ For my dissertation, I am researching how pollen diet impacts parasite infection
 
 <center> <img src="images/IMG_12403JPG.JPG"> </center>
 
-<center> Sunflowers at JM Pasiecnik Farm (left) in Deerfield, MA. </center>
+<center> Sunflowers at JM Pasiecnik Farm in Deerfield, MA. </center>
 
 ##### Social Behavior
 
-I am also interested in the evolution of social behavior and the costs and benefits associated with group-living, particularly in the context of parasite transmission and the evolution of host defense. Social interactions can affect many other life history traits, particularly those related to disease. I am studying immune function and gut microbial communities in social (bumble bees) and solitary bees (sweat bees). I hope to compare patterns in order to better understand how the adoption of sociality has impacted selection for traits related to pathogen defense such as immunity and the role of beneficial microbes. This project is funded by a Northeast Sustainable Agriculture Research & Education graduate student grant. 
+I am also interested in the evolution of social behavior and the costs and benefits associated with group-living, particularly in the context of parasite transmission and the evolution of host defense. I am studying immune function and gut microbial communities in social (bumble bees) and solitary bees (sweat bees). I hope to compare patterns in order to better understand how the adoption of sociality has impacted selection for traits related to pathogen defense such as immunity and the role of beneficial microbes. This project is funded by a Northeast Sustainable Agriculture Research & Education graduate student grant. 
 
 
 <center> <img src="images/bees.gif" width="38.5%"> </center>
-
-One of our bumble bee colonies in the lab. Most of the bees you see that are moving are workers and the large bee hanging out towards the bottom is the queen. The queen lays all the eggs and the workers do the foraging and rearing of the offspring. Workers are all non-reproductive females. This species is Bombus impatiens, the Common Eastern Bumble Bee. [More information about bumble bees here](https://xerces.org/bumblebees/about). 
+<br/>
+One of our bumble bee colonies in the lab. Most of the bees you see that are moving are workers and the large bee hanging out towards the bottom is the queen. The queen lays all the eggs and the workers forage for food and rear the offspring. Workers are all non-reproductive females. This species is *Bombus impatiens*, the Common Eastern Bumble Bee. [More information about bumble bees here](https://xerces.org/bumblebees/about). 
 
 <br/>
-Check out my [Blog page](blog.html) for updates on my research projects. 
+<center> Check out my [Blog page](blog.html) for updates on my research projects. </center> 
