@@ -11,8 +11,21 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I love talking to folks about science! Below are three organizations that I am involved with that host events in the Amherst area (and now more widely over zoom). Please explore the pages below or send me an email if you are interested in an educational event hosted by one of these groups. We cater to audiences of a wide range of ages and backgrounds. 
 
+##### Outreach Groups <br/>
 [Science Cafe](https://oebsciencecafe.org/) <br/>
 [The Fernald Club](https://www.fernaldclub.org/home) <br/>
 [That's Life Science](http://thatslifesci.com/) <br/>
 
-<img src="images/IMG_3560.JPG" width="35%"> <img src="images/IMG_6434.JPG" width="32%"> <img src="images/Fernald.png" width="28%"> 
+##### For more information about pollinators: <br/>
+[UMass Extension Pollinator Website](https://ag.umass.edu/resources/pollinators) <br/>
+[Xerces Society for Invertebrate Conservation](https://www.xerces.org/)
+
+<img src="images/IMG_3560.JPG" width="35%"> <img src="images/IMG_6434.JPG" width="32%"> <img src="images/Fernald.png" width="25%"> 
+
+
+
+
+
+
+
+
