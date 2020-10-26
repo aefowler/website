@@ -3,6 +3,8 @@ title: "Gallery"
 output: html_document
 ---
 
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+
 Coming soon! 
 
 <center> <img src="images/IMG_9943.JPG" width = 70%> </center>
