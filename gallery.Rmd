@@ -17,21 +17,12 @@ output: html_document
 <img src="images/IMG_9819.JPG" width = 45%>
 <img src="images/IMG_0873.JPG" width = 45%> </br>
 
-<img src="images/IMG_6340.JPG" width = 22%>
-<img src="images/IMG_1390.JPG" width = 22%>
-<img src="images/IMG_92230.JPG" width = 22%>
-<img src="images/IMG_6553.JPG" width = 22%>
-</br>
-
 <img src="images/pasiecnik2020.JPG" width = 45%>
 <img src="images/IMG_1003.JPG" width = 45%> </br>
 
-<img src="images/IMG_6104.JPG" width = 33%>
 <img src="images/IMG_9977.JPG" width = 31.4%> 
+<img src="images/IMG_92230.JPG" width = 25%>
 <img src="images/IMG_8216.JPG" width = 26.5%>
-</br>
-</center>
-
-</br>
+ </center>
 
 
