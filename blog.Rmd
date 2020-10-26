@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html)
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
 #### October 12, 2020: Processing summer field data 
 
