@@ -18,7 +18,7 @@ I am interested in the evolution and ecology of plant-animal-microbe interaction
 
 ### Current Projects 
 
-How do organisms defend themselves against pathogens? To investigate this, I focus on three aspects of host life history in bees: **diet, host-associated microbes, and social behavior**.
+How do organisms defend themselves against pathogens? To investigate this, I focus on three aspects of host ecology: **diet, host-associated microbes, and social behavior**.
 
 ##### Diet, Immunity, & Gut Microbes
 
@@ -35,7 +35,7 @@ I am also interested in the evolution of social behavior and the costs and benef
 
 <center> <img src="images/bees.gif" width="30%"> <img src = "images/IMG_6992.JPG" width = 40%> </center>
 <br/>
-Bumble bee nests. The movie on the right is one of our bumble bee colonies in the lab. Most of the bees you see are workers and the large bee towards the bottom is the queen. The queen lays eggs and the workers forage for food and rear the offspring. Workers are females that typically don't reproduce. This species is *Bombus impatiens*, the Common Eastern Bumble Bee. The photo on the left shows the brood in the nest (without the adults). These clumps are developing eggs, larvae, and pupae scattered among honey pots for storing nectar and pollen. [More information about bumble bees here](https://xerces.org/bumblebees/about). 
+Bumble bee nests. The movie on the left is one of our bumble bee colonies in the lab. Most of the bees you see are workers and the large bee towards the bottom is the queen. The queen lays eggs and the workers forage for food and rear the offspring. Workers are females that typically don't reproduce. This species is *Bombus impatiens*, the Common Eastern Bumble Bee. The photo on the right shows the brood in the nest (without the adults). These clumps are developing eggs, larvae, and pupae scattered among honey pots for storing nectar and pollen. [More information about bumble bees here](https://xerces.org/bumblebees/about). 
 
 <br/>
 <center> Check out my [Blog page](blog.html) for updates on my research projects. </center> 
