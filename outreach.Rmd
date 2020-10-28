@@ -12,19 +12,19 @@ knitr::opts_chunk$set(echo = TRUE)
 I love talking to folks about science! Below are three organizations that I am involved with that host events in the Amherst area (and now more widely over zoom). Please explore the pages below or send me an email if you are interested in an educational event hosted by one of these groups. We cater to audiences of a wide range of ages and backgrounds. 
 
 ##### Outreach Groups <br/>
-[Science Cafe](https://oebsciencecafe.org/) <br/>
-[The Fernald Club](https://www.fernaldclub.org/home) <br/>
-[That's Life Science](http://thatslifesci.com/) <br/>
+[Life Science Cafe](https://oebsciencecafe.org/): Monthly talks and Q&A sessions with scientists. All talks are currently remote! [Sign up](https://us13.list-manage.com/subscribe?u=0815deaeb0f72a609b883f842&id=39d6371adf) for the email list to stay in the loop. <br/>
+[The Fernald Club](https://www.fernaldclub.org/home): UMass Entomology Club; we share insect science with local students and other groups. <br/>
+[That's Life Science](http://thatslifesci.com/): Blog and outreach group run by UMass graduate students. <br/>
 
 ##### For more information about pollinators: <br/>
 [UMass Extension Pollinator Website](https://ag.umass.edu/resources/pollinators) <br/>
 [UMass Extension Pollinator Facebook Page](https://www.facebook.com/UMassExtPollinators) <br/>
 [Xerces Society for Invertebrate Conservation](https://www.xerces.org/)
 
-<img src="images/IMG_3560.JPG" width="35%"> <img src="images/IMG_6434.JPG" width="32%"> <img src="images/Fernald.png" width="25%"> 
-
-
-
+<center> <img src="images/IMG_6434.JPG" width="29.4%"> <img src="images/IMG_0715.JPG" width="32%"> <img src="images/IMG_2035.JPG" width="32%"> </center>
+<br/>
+<center> From left to right: making bee hotels with participants in an event hosted by the North Carolina Museum of Natural Science; hosting a workshop about pollinators and botany for middle school girls through the [Eureka! Program](https://www.girlsincvalley.org/portfolio/eureka/); hosting a workshop for Girl Scouts to receive their "Animal Habitat Badge" through [That's Life Science](http://thatslifesci.com/). </center>  
+<br/>
 
 
 

@@ -16,6 +16,8 @@ I am interested in the evolution and ecology of plant-animal-microbe interaction
 
 <img src="images/IMG_7741.JPG" width="22%"> <img src="images/IMG_1285.JPG" width="22%"> <img src="images/IMG_8217.JPG" width="24%"> <img src="images/IMG_3617.JPG" width="30%"> 
 
+<center> **Pollinators on various flowers.** From left to right: a queen bumble bee (*Bombus sp.*) foraging on *Cordyalis caseana* in the Colorado Rockies; a small carpenter bee (*Ceratina sp.*) on a strawflower (*Xerochrysum bracteatum*) at The Bars Farm in Deerfield, Massachusetts; a worker bumble bee (*Bombus impatiens*) foraging and packing pollen from a sunflower (*Helianthus annuus*) at the UMass permaculture garden on campus; and a golden digger wasp (*Sphex ichneumoneus*) departing from cockscomb (*Celosia argentea*) in Raleigh, North Carolina. </center>
+
 ### Current Projects 
 
 How do organisms defend themselves against pathogens? To investigate this, I focus on three aspects of host ecology: **diet, host-associated microbes, and social behavior**.
@@ -35,7 +37,7 @@ I am also interested in the evolution of social behavior and the costs and benef
 
 <center> <img src="images/bees.gif" width="30%"> <img src = "images/IMG_6992.JPG" width = 40%> </center>
 <br/>
-Bumble bee nests. The movie on the left is one of our bumble bee colonies in the lab. Most of the bees you see are workers and the large bee towards the bottom is the queen. The queen lays eggs and the workers forage for food and rear the offspring. Workers are females that typically don't reproduce. This species is *Bombus impatiens*, the Common Eastern Bumble Bee. The photo on the right shows the brood in the nest (without the adults). These clumps are developing eggs, larvae, and pupae scattered among honey pots for storing nectar and pollen. [More information about bumble bees here](https://xerces.org/bumblebees/about). 
+**Bumble bee nests.** The movie on the left is one of our bumble bee colonies in the lab. Most of the bees you see are workers and the large bee towards the bottom is the queen. The queen lays eggs and the workers forage for food and rear the offspring. Workers are females that typically don't reproduce. This species is *Bombus impatiens*, the Common Eastern Bumble Bee. The bees are under a red light because they don't see the color red (this appears dark to them), allowing us to open the lid without them flying out or becoming irritated. The photo on the right shows the brood in the nest (without the adults). These clumps are developing eggs, larvae, and pupae scattered among honey pots for storing nectar and pollen. [More information about bumble bees here](https://xerces.org/bumblebees/about). 
 
 <br/>
 <center> Check out my [Blog page](blog.html) for updates on my research projects. </center> 
