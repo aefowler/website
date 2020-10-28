@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Research Blog"
 output: html_document
 ---
 
@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-#### October 12, 2020: Processing summer field data 
+#### Most recent post: October 12, 2020: Processing summer field data 
 
 <img src="images/IMG_1656.JPG"> 
 

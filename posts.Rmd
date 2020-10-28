@@ -1,0 +1,14 @@
+---
+title: "Research Blog"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+
+#### Jump to: 
+
+[October 12, 2020](oct_12_2020.html)
