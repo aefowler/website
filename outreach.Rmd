@@ -11,12 +11,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 I love talking to folks about science! Below are three organizations that I am involved with that host events in the Amherst area (and now more widely over zoom). Please explore the pages below or send me an email if you are interested in an educational event hosted by one of these groups. We cater to audiences of a wide range of ages and backgrounds. 
 
-##### Outreach Groups <br/>
+##### Outreach Groups 
+
 [Life Science Cafe](https://oebsciencecafe.org/): Monthly talks and Q&A sessions with scientists. All talks are currently remote! [Sign up](https://us13.list-manage.com/subscribe?u=0815deaeb0f72a609b883f842&id=39d6371adf) for the email list to stay in the loop. <br/>
 [The Fernald Club](https://www.fernaldclub.org/home): UMass Entomology Club; we share insect science with local students and other groups. <br/>
 [That's Life Science](http://thatslifesci.com/): Blog and outreach group run by UMass graduate students. <br/>
 
-##### For more information about pollinators: <br/>
+##### For more information about pollinators:
+
 [UMass Extension Pollinator Website](https://ag.umass.edu/resources/pollinators) <br/>
 [UMass Extension Pollinator Facebook Page](https://www.facebook.com/UMassExtPollinators) <br/>
 [Western Mass Pollinator Network](https://www.wmassbees.org/) <br/>
@@ -27,7 +29,7 @@ I love talking to folks about science! Below are three organizations that I am i
 <center> From left to right: making bee hotels with participants in an event hosted by the North Carolina Museum of Natural Science; hosting a workshop about pollinators and botany for middle school girls through the [Eureka! Program](https://www.girlsincvalley.org/portfolio/eureka/); hosting a workshop for Girl Scouts to receive their "Animal Habitat Badge" through [That's Life Science](http://thatslifesci.com/). </center>  
 <br/>
 
+<center> <img src="images/IMG_2385.JPG" width="29.4%"> <img src="images/Dara.jpg" width="33%"> </center>
 
-
-
+<center> Left: Showing off the FlowCam at the NC Museum of Natural Sciences with other members of the Schnetzer Lab, Gabrielle and Dan. Right: Listening to Dr. Dara Orbach teach our Science Cafe audience about dolphin mating and genitalia. 
 
