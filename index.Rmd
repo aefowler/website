@@ -17,4 +17,5 @@ I am a PhD candidate and NSF Fellow in the [Adler Lab](https://blogs.umass.edu/l
 
 <center> <img src="images/IMG_1230.JPG" width="24%">
 <img src="images/IMG_1307.JPG" width="24%">
-<img src="images/IMG_1530.JPG" width="43%"> </center>
+<img src="images/IMG_1530.JPG" width="43%">
+</center>

@@ -16,11 +16,11 @@ I am interested in the evolution and ecology of plant-animal-microbe interaction
 
 <img src="images/IMG_7741.JPG" width="22%"> <img src="images/IMG_1285.JPG" width="22%"> <img src="images/IMG_8217.JPG" width="24%"> <img src="images/IMG_3617.JPG" width="30%"> 
 
-<center> **Pollinators on various flowers.** From left to right: a queen bumble bee (*Bombus sp.*) foraging on *Cordyalis caseana* in the Colorado Rockies; a small carpenter bee (*Ceratina sp.*) on a strawflower (*Xerochrysum bracteatum*) at The Bars Farm in Deerfield, Massachusetts; a worker bumble bee (*Bombus impatiens*) foraging and packing pollen from a sunflower (*Helianthus annuus*) at the UMass permaculture garden on campus; and a golden digger wasp (*Sphex ichneumoneus*) departing from cockscomb (*Celosia argentea*) in Raleigh, North Carolina. </center>
+<center> **Pollinators.** From left to right: a queen bumble bee (*Bombus sp.*) foraging on *Cordyalis caseana* in the Colorado Rockies; a small carpenter bee (*Ceratina sp.*) on a strawflower (*Xerochrysum bracteatum*) at The Bars Farm in Deerfield, Massachusetts; a worker bumble bee (*Bombus impatiens*) foraging and packing pollen from a sunflower (*Helianthus annuus*) at the UMass permaculture garden on campus; and a golden digger wasp (*Sphex ichneumoneus*) departing from cockscomb (*Celosia argentea*) in Raleigh, North Carolina. </center>
 
 ### Current Projects 
 
-How do organisms defend themselves against pathogens? To investigate this, I focus on three aspects of host ecology: **diet, host-associated microbes, and social behavior**.
+How do organisms defend themselves against pathogens? To investigate this, I focus on three aspects of host ecology: **diet, social behavior, and host-associated microbes.**
 
 ##### Diet, Immunity, & Gut Microbes
 
