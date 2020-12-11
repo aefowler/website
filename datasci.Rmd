@@ -1,0 +1,22 @@
+---
+title: "Research"
+output: html_document
+---
+
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+
+### Data Science Resources 
+
+* [Data Analysis and Visualization in R for Ecologists]()
+* [Reproducible Research Techniques]()
+* ["R for Data Science" book](https://r4ds.had.co.nz/)
+* [CRAN's Intro to R](https://cran.r-project.org/doc/manuals/R-intro.html)
+* [Happy Git - Intro to Github](https://happygitwithr.com/)
+* [Github interactive tutorials](https://try.github.io/)
+* [Github Version Control tutorials](http://swcarpentry.github.io/git-novice/)
+* [Intro to RMarkdown](https://rmarkdown.rstudio.com/)
+* [RMarkdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
+* [Building a website using Rmarkdown](https://nceas.github.io/training-rmarkdown-website/tutorial.html) 
+* [Another guide for building a website](https://garrettgman.github.io/rmarkdown/rmarkdown_websites.html)
+* [Website themes](https://prettydoc.statr.me/)
+* [My "Evolutionary Genomics & Bioinformatics" course assignments](https://aefowler.github.io/genomics-course/)
