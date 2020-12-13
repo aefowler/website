@@ -7,14 +7,13 @@ output: html_document
 
 I am originally from Northern Virginia and received my Bachelor's degrees in Plant Biology and Biological Oceanography from NC State University, where I was mentored by many great scientists, including Drs. [Astrid Schnetzer](https://sites.google.com/a/ncsu.edu/schnetzerlab/home), [Brian Langerhans](http://gambusia.zo.ncsu.edu/index.html), and [Becky Irwin](https://irwinlab.weebly.com/), who inspired me to pursue science. I'm currently pursuing my PhD in [Organismic & Evolutionary Biology](https://gpls.cns.umass.edu/oeb) with [Dr. Lynn Adler](https://blogs.umass.edu/lynnadler/) at UMass Amherst.
 
-I enjoy being in nature, growing plants, and biking. Feel free to contact me: aefowler [at] umass.edu or on [Twitter](https://twitter.com/alfowlfa). Please contact me if you would like a copy of my CV. 
+I enjoy being in nature, growing plants, and biking. Feel free to contact me: aefowler [at] umass.edu. I am also on [Twitter](https://twitter.com/alfowlfa) and [Instagram](https://www.instagram.com/alfowlfa/). Please contact me if you would like a copy of my CV. 
 <br/>
 
 <center> <img src="images/IMG_5006.JPG" width="29%"> <img src="images/jake.gif" width="38.5%"> </center> 
 
 <br/>
-**Helpful links**
-
+**Helpful links**<br/>
 [UMass Organismic & Evolutionary Biology Graduate Program](https://gpls.cns.umass.edu/oeb) <br/>
 [UMass Biology Department](https://www.bio.umass.edu/biology/) <br/>
 [UMass COVID-19 dashboard](https://www.umass.edu/coronavirus/dashboard)
