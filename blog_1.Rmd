@@ -1,0 +1,43 @@
+---
+title: "Research Blog"
+output: html_document
+---
+
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+
+#### October 12, 2020: Wrapping Up Summer Field Work 
+
+<img src="images/IMG_1656.JPG"> 
+
+<center> Sunflowers at Laurenitis Farm in Sunderland, MA </center>
+<br/> 
+
+##### Thank you to the farms who supported this research! The Bars, JM Pasiecnik, Dan's Veggies, Laurenitis, Simple Gifts, Bardwell, Many Hands, Hampshire College, Red Fire, Natural Roots, Stone Soup, and Golonka. 
+
+This summer, I collected bees from multiple farms in Western Massachusetts to determine if landscape floral diversity and amount of sunflower affect the gut microbiome in two species of bees. Gut bacteria are important for bee health; they can help digest food and certain bacteria are correlated with certain diseases. The Adler Lab has recently discovered that when bees eat pollen from sunflowers, they have lower infection by a common gut parasite. I am determining whether this link between diet and disease is driven by changes in gut microbes.
+
+I visited farms that differ in their amount of sunflowers planted to see if bees foraging in a landscape with lots of sunflowers (and lower overall diversity) have different gut microbes than bees in landscapes with a variety of flowering species, including some sunflowers, or a landscape with no sunflowers. 
+
+<center> <img src="images/IMG_12890.JPG" width="60%"> </center>
+
+<center> Rows of cut flowers at The Bars Farm in Deerfield, MA. </center>
+<br/> 
+
+With help from an undergraduate assistant, Rose, I collected two species of bees that were foraging on sunflowers: *Bombus impatiens* and *Halictus ligatus*. I chose these species because they differ in social behavior (bumble bees live in large colonies with a few hundred workers, while these sweat bees live in a solitary nest and do not have queens) but are similar in other ways – they are both generalist foragers (meaning they eat lots of different kinds of flowers) and live underground. Social behavior may impact gut microbes, so I plan to compare patterns across sites between these two species.  
+<br/>
+
+<img src="images/IMG_0811.JPG" width="32%">
+<img src="images/IMG_1390.JPG" width="32%">
+<img src="images/IMG_0643.JPG" width="32%">
+
+<center> From left to right: Two *H. ligatus* in ethanol, a *Bombus* queen foraging on a cosmos bloom, and a *H. ligatus* foraging on a sunflower. </center>
+<br/> 
+
+Now that I’ve wrapped up my collections, I am processing the samples. My first step is to determine what types of pollen are on each bee, to see if the bee’s diet reflects the diversity of the landscape it was caught on. In other words – if there are lots of plants available to eat, do the bees actually have a more diverse diet? I hope that the types of pollen on their bodies will estimate the food they are eating (although this is not perfect because some bees might visit some flowers just for nectar without getting any pollen on them). Later, I will sequence the DNA inside the bee gut to determine which bacterial species are present, and see how that correlates with pollen species and diversity. For this, I have help from two undergraduates: Elisa, who is helping me make the slides, and Cristina, who is helping me quantify the different species of pollen found on each bee. 
+
+<center> <img src="images/IMG_2125.JPG" width="50%"> </center>
+
+<center> Some sunflower pollen that was removed from a bee and then placed under the microscope (400x magnification). </center>
+<br/> 
+
+##### Thanks for checking in. I hope to have another update on the project in a few weeks! -Alison 
