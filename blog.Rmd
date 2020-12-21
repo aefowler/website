@@ -5,11 +5,9 @@ output: html_document
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-#### Most recent post: 
+#### Posts: 
 
 [December 13, 2020: Favorite Popular Science Books](blog_2.html)
-
-#### Previous posts: 
 
 [October 12, 2020: Wrapping Up Summer Field Work](blog_1.html)
 
