@@ -12,7 +12,7 @@ output: html_document
 <center> Sunflowers at Laurenitis Farm in Sunderland, MA </center>
 <br/> 
 
-##### Thank you to the farms who supported this research! The Bars, JM Pasiecnik, Dan's Veggies, Laurenitis, Simple Gifts, Bardwell, Many Hands, Hampshire College, Red Fire, Natural Roots, Stone Soup, and Golonka. 
+##### Thank you to the farms who supported this research! The Bars, JM Pasiecnik, Dan's Veggies, Laurenitis, Simple Gifts, Bardwell, Many Hands, Hampshire College, Red Fire, Natural Roots, Stone Soup, Smiarowski, and Golonka. 
 
 This summer, I collected bees from multiple farms in Western Massachusetts to determine if landscape floral diversity and amount of sunflower affect the gut microbiome in two species of bees. Gut bacteria are important for bee health; they can help digest food and certain bacteria are correlated with certain diseases. The Adler Lab has recently discovered that when bees eat pollen from sunflowers, they have lower infection by a common gut parasite. I am determining whether this link between diet and disease is driven by changes in gut microbes.
 
