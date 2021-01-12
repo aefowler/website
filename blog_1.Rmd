@@ -23,7 +23,7 @@ I visited farms that differ in their amount of sunflowers planted to see if bees
 <center> Rows of cut flowers at The Bars Farm in Deerfield, MA. </center>
 <br/> 
 
-With help from an undergraduate assistant, Rose, I collected two species of bees that were foraging on sunflowers: *Bombus impatiens* and *Halictus ligatus*. I chose these species because they differ in social behavior (bumble bees live in large colonies with a few hundred workers, while these sweat bees live in a solitary nest and do not have queens) but are similar in other ways – they are both generalist foragers (meaning they eat lots of different kinds of flowers) and live underground. Social behavior may impact gut microbes, so I plan to compare patterns across sites between these two species.  
+With help from an undergraduate assistant, Rose, I collected two species of bees that were foraging on sunflowers: *Bombus impatiens* and *Halictus ligatus*. I chose these species because they differ in social behavior (bumble bees live in large colonies with a few hundred workers, while these sweat bees live in a solitary nest and do not have queen/worker castes) but are similar in other ways – they are both generalist foragers (meaning they eat lots of different kinds of flowers) and live underground. Social behavior may impact gut microbes, so I plan to compare patterns across sites between these two species.  
 <br/>
 
 <img src="images/IMG_0811.JPG" width="32%">
