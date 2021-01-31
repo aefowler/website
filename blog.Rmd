@@ -11,6 +11,6 @@ output: html_document
 
 [October 12, 2020: Wrapping Up Summer Field Work](blog_1.html)
 
-#### Posted on [That's Life Science]: 
+#### Posted on That's Life [Science]: 
 
 [Genetic Chimeras](http://thatslifesci.com/2019-06-24-Chimeras-Are-Real-AFowler/), inspired by a chapter of Carl Zimmer's *She Has Her Mother's Laugh*. 
