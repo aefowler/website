@@ -1,0 +1,30 @@
+---
+title: "Current Projects"
+output: html_document
+---
+
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+
+<center> 
+### How do bees defend themselves against pathogens? 
+
+To investigate this, I focus on the interactions between diet, immune function, microbes, and social behavior.
+<br/> <center> 
+#### Diet, Immunity, & Gut Microbes
+</center> 
+
+For my dissertation, I am researching whether pollen diet impacts parasite infection in bees by altering the immune system and gut microbiome. Pollen from sunflowers and goldenrod (Family: Asteraceae) reduce a detrimental gut pathogen in bumble bees ([Giacomini et al. 2018](https://www.nature.com/articles/s41598-018-32681-y?ref=marketbulletin), [LoCascio et al. 2019](https://royalsocietypublishing.org/doi/full/10.1098/rsos.190279)). In collaboration with the [Sadd Lab](https://about.illinoisstate.edu/bmsadd/), I am investigating how a sunflower pollen diet impacts the bumble bee immune system as a potential driver of the reduced infection. I am also interested in how diet quality and diversity impact pathogen resistance via changes in the gut microbiome. In collaboration with the [McFrederick Lab](https://melittology.ucr.edu/), I am investigating how a diet of sunflower pollen and parasite infection affects bacterial communities within the gut. These two projects are funded by the USDA National Institute of Food & Agriculture. 
+
+<center> <img src="images/IMG_12403JPG.JPG"></center>
+
+<center> Sunflowers at JM Pasiecnik Farm in Deerfield, MA. </center>
+<br/> <center> 
+#### Social Behavior
+</center> 
+
+I am also interested in the evolution of social behavior and the costs and benefits associated with group living, particularly in the context of parasite transmission and the evolution of host defense. I am studying immune function and gut microbial communities in social (bumble bees) and solitary bees (sweat bees). I will compare patterns to better understand how the adoption of sociality has impacted selection for traits related to pathogen defense such as immunity and the presence of microbial symbionts. This project is funded by a Northeast Sustainable Agriculture Research & Education graduate student grant. 
+
+
+<center> <img src="images/bees.gif" width="30%"> <img src = "images/IMG_6992.JPG" width = 40%> </center>
+<br/>
+**Bumble bee nests.** The movie on the left is one of our bumble bee colonies in the lab. Most of the bees you see are workers and the large bee towards the bottom is the queen. The queen lays eggs and the workers forage for food and rear the offspring. Workers are females that typically don't reproduce. This species is *Bombus impatiens*, the Common Eastern Bumble Bee. The bees are under a red light because they don't see the color red (this appears dark to them), allowing us to open the lid without them flying out or becoming irritated. The photo on the right shows the brood in the nest (without the adults). These clumps are developing eggs, larvae, and pupae scattered among honey pots where they store nectar and pollen. [More information about bumble bees here](https://xerces.org/bumblebees/about). 
