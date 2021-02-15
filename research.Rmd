@@ -7,11 +7,9 @@ output: html_document
 
 <center>
 ### General Interests
-</center>
 
 I am interested in the evolution and ecology of plant-animal-microbe interactions, including host-parasite and host-symbiont. Bees are great models to study these topics because they eat and use plants and some species host a variety of microbes in their guts and nests -- some of which are beneficial, others pathogenic. Bees also play important roles as pollinators, but some are experiencing population declines. My goal is to learn more about the biology of plant-bee-microbe interactions and the factors that impact bee health so we can better support pollinator populations in the face of stressors such as pathogens, pesticides, habitat loss, and climate change. I hope my work will improve pollinator health as well as support sustainable food production and the livelihoods of farmers. 
 
-<center>
 ### Explore details about my [current projects here](current_proj.html)!
 </center>
 
