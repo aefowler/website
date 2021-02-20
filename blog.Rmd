@@ -5,12 +5,16 @@ output: html_document
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-#### Posts: 
+#### Blog Posts: 
 
-[December 13, 2020: Favorite Popular Science Books](blog_2.html)
+[Some of my favorite popular science books](blog_2.html), updated February 20, 2021
+</br><img src="images/THH.PNG" width="9%"/> <img src="images/HTCYM.PNG" width="9%"/> <img src="images/ICM.PNG" width="9%"/>
 
-[October 12, 2020: Wrapping Up Summer Field Work](blog_1.html)
+[Nurturing Our Offline Selves](http://thatslifesci.com/2021-02-15-Offline-Self-AFowler/), posted to **That's Life [Science]** February 15, 2021
+</br><img src="images/shadow.JPG" width="10%"/>
 
-#### Posted on That's Life [Science]: 
+[Wrapping up summer field work](blog_1.html), October 12, 2020
+</br><img src="images/IMG_12890.JPG" width="19%"/> 
 
-[Genetic Chimeras](http://thatslifesci.com/2019-06-24-Chimeras-Are-Real-AFowler/), inspired by a chapter of Carl Zimmer's *She Has Her Mother's Laugh*. 
+[It's Not Science Fiction; Chimeras are Real](http://thatslifesci.com/2019-06-24-Chimeras-Are-Real-AFowler/), inspired by a chapter of Carl Zimmer's *She Has Her Mother's Laugh*, posted to **That's Life [Science]** June 24, 2019
+

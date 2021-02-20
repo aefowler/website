@@ -5,55 +5,58 @@ output: html_document
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-#### December 13, 2020: Popular Science Books! 
-
+<center>
+#### Popular Science Books! 
+</center>
 I started getting into popular science books when I graduated from college in 2016. I knew about a professor at my undergrad institution, [Dr. Rob Dunn](http://robdunnlab.com/people/rob-dunn/), who had written a number of books for the public about topics I was interested in – bugs, plants, nature, etc., so I decided to check them out. I then fell in love with science "stories".  Dr. Dunn's books got me started (you'll see a few of them are on this list), and I know there is still so much more out there! These are my favorites as of now. Topics that I gravitate towards are biology, genetics, evolution, ecology, psychology, agriculture, food/diet, health/disease/medicine, and conservation.</br>
 
 <center> **My favorite popular science books** (and notes for some): </center> <br>
 <img src="images/THH.PNG" width="9%" ALIGN="right"/>
-**1. “The Happiness Hypothesis” by Jonathan Haidt (2006)** The book is about social and moral psychology -- about how we think, why we believe what we believe, value what we value, act the way we act, and what that means for a society when different people believe and value different things. The recent political and social climate in the US has led me back to these ideas and questions. Dr. Haidt’s explanations of these topics through an evolutionary psychology framework is clear and easy to read. I highly recommend this book to everyone. 
+**“The Happiness Hypothesis” by Jonathan Haidt (2006)** The book is about social and moral psychology -- about how we think, why we believe what we believe, value what we value, act the way we act, and what that means for a society when different people believe and value different things. The recent political and social climate in the US has led me back to these ideas and questions. Dr. Haidt’s explanations of these topics through an evolutionary psychology framework is clear and easy to read. I highly recommend this book to everyone. 
 
-**2.	“I Contain Multitudes: The Microbes Within Us and a Grander View of Life” by Ed Yong (2016)**
+**“I Contain Multitudes: The Microbes Within Us and a Grander View of Life” by Ed Yong (2016)**
 This book helped turn my spark of interest in the microbiome into a flame and the story-telling is phenomenal; it is so easy and fun to read. <img src="images/ICM.PNG" width="9%" ALIGN="right"/> I highly recommend it to anyone. Even for microbiome specialists – they might not be as impressed with the facts, but it would be hard not to love how Mr. Yong tells the stories with so many funny and quirky anecdotes. 
 
-**3.	“The Ancestor’s Tale” by Richard Dawkins and Yan Wong (2004)**
+**“The Ancestor’s Tale” by Richard Dawkins and Yan Wong (2004)**
 I read this book about two years ago while I was taking my graduate Evolution course and preparing for my qualifying exams. I found it to be equally as helpful as my textbooks for understanding evolution (and way more fun to read). I think it improved my general intuition about evolutionary processes and timescales. <img src="images/NOOS.PNG" width="9.25%" ALIGN="right"/><img src="images/TAT.PNG" width="9%" ALIGN="right"/> The reader travels back in time, as though walking down a phylogeny from one tip (humans) to the root of all life, meeting all of our ancestors at the nodes along the way. 
 
-**4.	“Never Out of Season: How Having the Food We Want When We Want It Threatens Our Food Supply and Our Future” by Rob Dunn (2017)**
+**“Never Out of Season: How Having the Food We Want When We Want It Threatens Our Food Supply and Our Future” by Rob Dunn (2017)**
 I am a huge fan of the science of domestication and human’s evolutionary history with food. This book tells incredible stories about our food system and why it is so important for us to conserve genetic variation in our crops (and how we can be better at it). Dr. Dunn has this amazing ability to dig out all the weird and overlooked, yet important details of scientific endeavors. <br>
-<img src="images/TWOOB.PNG" width="9.25%" ALIGN="right"/><img src="images/TG.PNG" width="10%" ALIGN="right"/><img src="images/SHHML.PNG" width="9.25%" ALIGN="right"/>
+<img src="images/TG.PNG" width="10%" ALIGN="right"/><img src="images/SHHML.PNG" width="9.25%" ALIGN="right"/>
 
-**5.	“She Has Her Mother’s Laugh: The Powers, Perversions, and Potential of Heredity” by Carl Zimmer (2018) **
+**“She Has Her Mother’s Laugh: The Powers, Perversions, and Potential of Heredity” by Carl Zimmer (2018) **
 
-**6.	“The Gene: An Intimate History” by Siddhartha Mukherjee (2016)**
+**“The Gene: An Intimate History” by Siddhartha Mukherjee (2016)**
 
-**7.	“The Wildlife of Our Bodies: Predators, Parasites, and Partners That Shape Who We Are Today” by Rob Dunn (2011)**
+**"How to Change Your Mind: What the New Science of Psychadelics Teaches Us About Consciousness, Dying, Addictiion, Depression, and Transcendence" by Michael Pollan (2018)** 
+This is an absolutely fascinating book. We take a tour through the complicated history of psychadelics in the US starting around the 1950s, stories of the author's personal experiences, the recent neuroscience research about how psychadelics change our brains, <img src="images/HTCYM.PNG" width="9%"/ ALIGN ="right"/> and the potential applications for psychotherapy. The chapters about neuroscience and neural networks was fascinating and have changed how I view my own brain, mental health, and sense of self. 
 
-<img src="images/THI.PNG" width="10%" ALIGN="right"/>
-**8.	“The Homing Instinct: Meaning and Mystery in Animal Migration” by Bernd Heinrich (2014)**
-This is a beautiful and fascinating book. Dr. Heinrich lived in the woods as a boy during World War II and observes animals and plants as kin, which he conveys through his writings and illustrations. This book is about the benefits and costs of straying away from home, from what is known and comfortable. He explores how different animals have adapted to find this balance. I didn’t anticipate how relevant this book would be for me, personally, as I navigated my own migration. I read this book during my year between undergrad and grad school. It gave me important perspective as I was making the decision to move to a new place and build a new home for myself. This book reminded me that I, like many animals, have a deep biological connection to my place of birth and to my family. Even if you aren’t going through your own personal migration, I still recommend this book! <br>
+**“The Wildlife of Our Bodies: Predators, Parasites, and Partners That Shape Who We Are Today” by Rob Dunn (2011)**
+
+**“The Homing Instinct: Meaning and Mystery in Animal Migration” by Bernd Heinrich (2014)**
+This is a beautiful and fascinating book. Dr. Heinrich lived in the woods as a boy during World War II and observes animals and plants as kin, which he conveys through his writings and illustrations. <img src="images/THI.PNG" width="9%" ALIGN="right"/> <img src="images/TWOOB.PNG" width="9.25%" ALIGN="right"/> This book is about the benefits and costs of straying away from home, from what is known and comfortable. He explores how different animals have adapted to find this balance. I didn’t anticipate how relevant this book would be for me, personally, as I navigated my own migration. I read this book during my year between undergrad and grad school. It gave me important perspective as I was making the decision to move to a new place and build a new home for myself. This book reminded me that I, like many animals, have a deep biological connection to my place of birth and to my family. Even if you aren’t going through your own personal migration, I still recommend this book! <br>
 <img src="images/BOF.PNG" width="9%" ALIGN="right"/>
 
-**9.	“Brain on Fire: My Month of Madness” by Susannah Cahalan (2012) **
+**“Brain on Fire: My Month of Madness” by Susannah Cahalan (2012) **
 This is a memoir by a journalist who experiences a rare brain disorder. The story is told like a mystery from the first-person perspective. She exhibits strange behaviors and other symptoms and no one can figure out what is wrong with her. Finally, brilliant doctors start to put all the pieces together and help the author get better and go back to living her normal life and eventually write a book about her experience. This story was gripping, fascinating, and we learn along with the author tons of interesting science about the brain and what can go wrong with it. 
 
-**10.	“The Genius of Birds” by Jennifer Ackerman (2015)**
+**“The Genius of Birds” by Jennifer Ackerman (2015)**
 I have never been a bird person, and I still don’t think I am, but I now respect birds as some of the most creative and intelligent creatures in the world.  Birds are amazing!! <img src="images/NHA.PNG" width="9%" ALIGN="right"/> <img src="images/GOB.PNG" width="9%" ALIGN="right"/>
 
-**11.	“Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, The Natural History of Where We Live” by Rob Dunn (2018)**
+**“Never Home Alone: From Microbes to Millipedes, Camel Crickets, and Honeybees, The Natural History of Where We Live” by Rob Dunn (2018)**
 I love books that show us what is extraordinary about our ordinary lives. This theme is clearly exemplified in this book as we take a tour of the biodiversity inside our homes. We learn that if we actually took the time to identify the things that live under our own roof, we would be very surprised as to who they are, how they got there, and what they can teach us. 
 
-**12.	 “The Geographic Mosaic of Coevolution” by John Thompson (2005)**
+**“The Geographic Mosaic of Coevolution” by John Thompson (2005)**
 <img src="images/LG.PNG" width="8.75%" ALIGN="right"/><img src="images/MWTHOH.PNG" width="8.75%" ALIGN="right"/><img src="images/GMOC.PNG" width="9%" ALIGN="right"/>
 
-**13.	“The Man Who Touched His Own Heart: True Tales of Science, Surgery, and Mystery” by Rob Dunn (2015)**
+**“The Man Who Touched His Own Heart: True Tales of Science, Surgery, and Mystery” by Rob Dunn (2015)**
 
-**14.	“Lab Girl” by Hope Jahren (2016)**
+**“Lab Girl” by Hope Jahren (2016)**
 
-**15.	“Outliers” by Malcom Gladwell (2008)**
+**“Outliers” by Malcom Gladwell (2008)**
 Mr. Gladwell analyzes the previously overlooked factors that dictate extraordinary successes and failures. He presents a compelling argument that changes how we think about <img src="images/Buzz.PNG" width="9%" ALIGN="right"/> <img src="images/O_MG.PNG" width="9%" ALIGN="right"/> success through fascinating stories about people, cultural legacies, languages, and... airlines!
 
-**16. "Buzz: The Nature and Necessity of Bees" by Thor Hanson (2018)**
+**"Buzz: The Nature and Necessity of Bees" by Thor Hanson (2018)**
 Bees, flowers, humans, food, evolution - all my favorite topics in a light and charming read. I've realized that most people who take a minute to learn a little bit about bees, immediately have dozens of follow-up questions. This book answers all of those and more so I highly recommend to anyone who wants to get an overview of how cool bees are and why we need them. 
 
 
