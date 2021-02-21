@@ -5,16 +5,17 @@ output: html_document
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-#### Blog Posts: 
+#### Some notes on I've been working on, thinking about, reading, etc.:
 
-[Some of my favorite popular science books](blog_2.html), updated February 20, 2021
-</br><img src="images/THH.PNG" width="9%"/> <img src="images/HTCYM.PNG" width="9%"/> <img src="images/ICM.PNG" width="9%"/>
+[Some of my favorite popular science books](blog_2.html),
+updated February 20, 2021
 
-[Nurturing Our Offline Selves](http://thatslifesci.com/2021-02-15-Offline-Self-AFowler/), posted to **That's Life [Science]** February 15, 2021
-</br><img src="images/shadow.JPG" width="10%"/>
+[Nurturing Our Offline Selves](http://thatslifesci.com/2021-02-15-Offline-Self-AFowler/),
+posted to **That's Life [Science]** February 15, 2021
 
-[Wrapping up summer field work](blog_1.html), October 12, 2020
-</br><img src="images/IMG_12890.JPG" width="19%"/> 
+[Wrapping up summer field work](blog_1.html),
+October 12, 2020
 
-[It's Not Science Fiction; Chimeras are Real](http://thatslifesci.com/2019-06-24-Chimeras-Are-Real-AFowler/), inspired by a chapter of Carl Zimmer's *She Has Her Mother's Laugh*, posted to **That's Life [Science]** June 24, 2019
+[It's Not Science Fiction; Chimeras are Real](http://thatslifesci.com/2019-06-24-Chimeras-Are-Real-AFowler/),
+inspired by a chapter of Carl Zimmer's *She Has Her Mother's Laugh*, posted to **That's Life [Science]** June 24, 2019
 
