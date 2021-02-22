@@ -3,15 +3,25 @@ title: "Outreach"
 output: html_document
 ---
 
-[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html) | [Are the bees OK yet?](FAQ.html)
 
 I love talking to folks about science! Below are three organizations that I am involved with that host events in the Amherst area (and now more widely over zoom). Please explore the pages below or send me an email if you are interested in an educational event hosted by one of these groups. We cater to audiences of a wide range of ages and backgrounds. 
 
-##### Outreach Groups 
+#### Outreach Groups 
 
-[Life Science Cafe](https://oebsciencecafe.org/): Monthly talks and Q&A sessions with scientists. All talks are currently remote! [Sign up](https://us13.list-manage.com/subscribe?u=0815deaeb0f72a609b883f842&id=39d6371adf) for the email list to stay in the loop. <br/>
-[The Fernald Club](https://www.fernaldclub.org/home): UMass Entomology Club; we share insect science with local students and other groups. [Follow Fernald Club on Instagram](https://www.instagram.com/umassfernaldclub/). <br/>
-[That's Life [Science]](http://thatslifesci.com/): Blog and outreach group run by UMass graduate students. [Follow TLS on Instagram](https://www.instagram.com/thatslifesci/) <br/>
+##### [Life Science Cafe](https://oebsciencecafe.org/): Monthly talks and Q&A sessions with scientists. All talks are currently remote! 
+
+* [Sign up](https://us13.list-manage.com/subscribe?u=0815deaeb0f72a609b883f842&id=39d6371adf) for the email list to hear about how to join our next talk. 
+* Check out my [recent conversation](https://www.youtube.com/watch?v=kYinins8H0o) with [Dr. Li-Jun Ma](https://www.biochem.umass.edu/faculty/li-jun-ma). We had a great time talking about fungal diseases in plants!
+
+##### [The Fernald Club](https://www.fernaldclub.org/home): UMass Entomology Club; we share insect science with local students and other groups. 
+
+* [Follow Fernald Club on Instagram](https://www.instagram.com/umassfernaldclub/).
+
+##### [That's Life [Science]](http://thatslifesci.com/): Blog and outreach group run by UMass graduate students. 
+
+* Check out [my author page](http://thatslifesci.com/authors/afowler/) on TLS. 
+* [Follow TLS on Instagram](https://www.instagram.com/thatslifesci/) <br/>
 
 ##### For more information about pollinators:
 
