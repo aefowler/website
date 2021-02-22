@@ -3,7 +3,7 @@ title: "Outreach"
 output: html_document
 ---
 
-[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html) | [Are the bees OK yet?](FAQ.html)
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
 I love talking to folks about science! Below are three organizations that I am involved with that host events in the Amherst area (and now more widely over zoom). Please explore the pages below or send me an email if you are interested in an educational event hosted by one of these groups. We cater to audiences of a wide range of ages and backgrounds. 
 
