@@ -5,7 +5,7 @@ output: html_document
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-#### Some notes on I've been working on, thinking about, reading, etc.:
+#### Some notes on what I've been working on, thinking about, reading, etc.:
 
 [Some of my favorite popular science books](blog_2.html),
 updated February 20, 2021
