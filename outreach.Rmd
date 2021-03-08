@@ -7,8 +7,6 @@ output: html_document
 
 I love talking to folks about science! Below are three organizations that I am involved with that host events in the Amherst area (and now more widely over zoom). Please explore the pages below or send me an email if you are interested in an educational event hosted by one of these groups. We cater to audiences of a wide range of ages and backgrounds. 
 
-#### Outreach Groups 
-
 ##### [Life Science Cafe](https://oebsciencecafe.org/): Monthly talks and Q&A sessions with scientists. All talks are currently remote! 
 
 * [Sign up](https://us13.list-manage.com/subscribe?u=0815deaeb0f72a609b883f842&id=39d6371adf) for the email list to hear about how to join our next talk. 
