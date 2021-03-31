@@ -6,7 +6,7 @@ output: html_document
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
 <center>
-### Species Interactions & Disease Ecology
+### Species Interactions, Social Behavior, Disease Ecology
 
 I am interested in the evolution and ecology of plant-animal-microbe interactions, including host-parasite and host-symbiont. I focus my studies on bees; they eat and use plants and some species host a variety of microbes in their guts and nests -- some of which are beneficial, others pathogenic. Pollinators are also essential for ecosystem health, but many species are experiencing population declines. My goal is to learn more about the biology of plant-bee-microbe interactions and the factors that impact bee health so we can better support their populations in the face of stressors such as pathogens, pesticides, habitat loss, and climate change. I hope my work will improve pollinator health as well as support sustainable food production and the livelihoods of farmers. 
 
