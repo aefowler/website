@@ -6,16 +6,23 @@ output: html_document
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
 <center>
-#### Popular Science Books! 
+#### Popular Science Books! Updated: April 26, 2021 
 </center>
-I started getting into popular science books when I graduated from college in 2016. I knew about a professor at my undergrad institution, [Dr. Rob Dunn](http://robdunnlab.com/people/rob-dunn/), who had written a number of books for the public about topics I was interested in – bugs, plants, nature, etc., so I decided to check them out. I then fell in love with science "stories".  Dr. Dunn's books got me started (you'll see a few of them are on this list), and I know there is still so much more out there! These are my favorites as of now. Topics that I gravitate towards are biology, genetics, evolution, ecology, psychology, agriculture, food/diet, health/disease/medicine, and conservation.</br>
 
-<center> **My favorite popular science books** (and notes for some): </center> <br>
-<img src="images/THH.PNG" width="9%" ALIGN="right"/>
-**“The Happiness Hypothesis” by Jonathan Haidt (2006)** The book is about social and moral psychology -- about how we think, why we believe what we believe, value what we value, act the way we act, and what that means for a society when different people believe and value different things. The recent political and social climate in the US has led me back to these ideas and questions. Dr. Haidt’s explanations of these topics through an evolutionary psychology framework is clear and easy to read. I highly recommend this book to everyone. 
+<img src="images/THH.PNG" width="11%" ALIGN="right"/> <img src="images/Sapiens.PNG" width="11%" ALIGN="right"/>
+
+##### Recommendations for everyone: 
+
+**"Sapiens: A Brief History of Human Kind" by Yuval Noah Harari (2011)** <br>
+
+**“The Happiness Hypothesis” by Jonathan Haidt (2006)** 
+
+These two books are about why we are the way we are. They both explore human evolution, evolutionary psychology, history, religion, science, and politics. They are both clearly written and easy to read. I highly recommend these two books to everyone. 
+
+##### Recommendations for those interested in biology: 
 
 **“I Contain Multitudes: The Microbes Within Us and a Grander View of Life” by Ed Yong (2016)**
-This book helped turn my spark of interest in the microbiome into a flame and the story-telling is phenomenal; it is so easy and fun to read. <img src="images/ICM.PNG" width="9%" ALIGN="right"/> I highly recommend it to anyone. Even for microbiome specialists – they might not be as impressed with the facts, but it would be hard not to love how Mr. Yong tells the stories with so many funny and quirky anecdotes. 
+This book helped turn my spark of interest in the microbiome into a flame and the story-telling is phenomenal; <img src="images/ICM.PNG" width="9%" ALIGN="right"/> it is so easy and fun to read. I highly recommend it to anyone. Even for microbiome specialists – they might not be as impressed with the facts, but it would be hard not to love how Mr. Yong tells the stories with so many funny and quirky anecdotes. 
 
 **“The Ancestor’s Tale” by Richard Dawkins and Yan Wong (2004)**
 I read this book about two years ago while I was taking my graduate Evolution course and preparing for my qualifying exams. I found it to be equally as helpful as my textbooks for understanding evolution (and way more fun to read). I think it improved my general intuition about evolutionary processes and timescales. <img src="images/NOOS.PNG" width="9.25%" ALIGN="right"/><img src="images/TAT.PNG" width="9%" ALIGN="right"/> The reader travels back in time, as though walking down a phylogeny from one tip (humans) to the root of all life, meeting all of our ancestors at the nodes along the way. 
@@ -47,19 +54,12 @@ I have never been a bird person, and I still don’t think I am, but I now respe
 I love books that show us what is extraordinary about our ordinary lives. This theme is clearly exemplified in this book as we take a tour of the biodiversity inside our homes. We learn that if we actually took the time to identify the things that live under our own roof, we would be very surprised as to who they are, how they got there, and what they can teach us. 
 
 **“The Geographic Mosaic of Coevolution” by John Thompson (2005)**
-<img src="images/LG.PNG" width="8.75%" ALIGN="right"/><img src="images/MWTHOH.PNG" width="8.75%" ALIGN="right"/><img src="images/GMOC.PNG" width="9%" ALIGN="right"/>
+<img src="images/Buzz.PNG" width="9%" ALIGN="right"/><img src="images/MWTHOH.PNG" width="8.75%" ALIGN="right"/><img src="images/GMOC.PNG" width="9%" ALIGN="right"/>
 
 **“The Man Who Touched His Own Heart: True Tales of Science, Surgery, and Mystery” by Rob Dunn (2015)**
-
-**“Lab Girl” by Hope Jahren (2016)**
-
-**“Outliers” by Malcom Gladwell (2008)**
-Mr. Gladwell analyzes the previously overlooked factors that dictate extraordinary successes and failures. He presents a compelling argument that changes how we think about <img src="images/Buzz.PNG" width="9%" ALIGN="right"/> <img src="images/O_MG.PNG" width="9%" ALIGN="right"/> success through fascinating stories about people, cultural legacies, languages, and... airlines!
 
 **"Buzz: The Nature and Necessity of Bees" by Thor Hanson (2018)**
 Bees, flowers, humans, food, evolution - all my favorite topics in a light and charming read. I've realized that most people who take a minute to learn a little bit about bees, immediately have dozens of follow-up questions. This book answers all of those and more so I highly recommend to anyone who wants to get an overview of how cool bees are and why we need them. 
 
 
-</br>
-**I look forward to adding more to the list! Please feel free to reach out if you'd like to talk books or have recommendations. Thanks for checking in. -Alison**
-
+.
