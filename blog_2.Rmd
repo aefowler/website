@@ -9,23 +9,19 @@ output: html_document
 #### Popular Science Books! Updated: April 26, 2021 
 </center>
 
-<img src="images/THH.PNG" width="11%" ALIGN="right"/> <img src="images/Sapiens.PNG" width="11%" ALIGN="right"/>
-
-##### Recommendations for everyone: 
+<img src="images/THH.PNG" width="10%" ALIGN="right"/> <img src="images/Sapiens.PNG" width="10%" ALIGN="right"/>
 
 **"Sapiens: A Brief History of Human Kind" by Yuval Noah Harari (2011)** <br>
 
 **“The Happiness Hypothesis” by Jonathan Haidt (2006)** 
 
-These two books are about why we are the way we are. They both explore human evolution, evolutionary psychology, history, religion, science, and politics. They are both clearly written and easy to read. I highly recommend these two books to everyone. 
-
-##### Recommendations for those interested in biology: 
+These two books are about why we are the way we are. They both explore human evolution, evolutionary psychology, history, religion, science, and politics. They are both clearly written and easy to read. I highly recommend these two books to everyone.
 
 **“I Contain Multitudes: The Microbes Within Us and a Grander View of Life” by Ed Yong (2016)**
-This book helped turn my spark of interest in the microbiome into a flame and the story-telling is phenomenal; <img src="images/ICM.PNG" width="9%" ALIGN="right"/> it is so easy and fun to read. I highly recommend it to anyone. Even for microbiome specialists – they might not be as impressed with the facts, but it would be hard not to love how Mr. Yong tells the stories with so many funny and quirky anecdotes. 
+This book helped turn my spark of interest in the microbiome into a flame and the story-telling is phenomenal; it is so easy and fun to read. I highly recommend it to anyone. I love how Mr. Yong tells the stories with so many funny and quirky anecdotes. 
 
 **“The Ancestor’s Tale” by Richard Dawkins and Yan Wong (2004)**
-I read this book about two years ago while I was taking my graduate Evolution course and preparing for my qualifying exams. I found it to be equally as helpful as my textbooks for understanding evolution (and way more fun to read). I think it improved my general intuition about evolutionary processes and timescales. <img src="images/NOOS.PNG" width="9.25%" ALIGN="right"/><img src="images/TAT.PNG" width="9%" ALIGN="right"/> The reader travels back in time, as though walking down a phylogeny from one tip (humans) to the root of all life, meeting all of our ancestors at the nodes along the way. 
+I read this book about two years ago while I was taking my graduate Evolution course and preparing for my qualifying exams. I think it improved my general intuition about evolutionary processes and timescales. <img src="images/NOOS.PNG" width="9.25%" ALIGN="right"/><img src="images/TAT.PNG" width="9%" ALIGN="right"/><img src="images/ICM.PNG" width="9.5%" ALIGN = "right"/> The reader travels back in time, as though walking down a phylogeny from one tip (humans) to the root of all life, meeting all of our ancestors at the nodes along the way. 
 
 **“Never Out of Season: How Having the Food We Want When We Want It Threatens Our Food Supply and Our Future” by Rob Dunn (2017)**
 I am a huge fan of the science of domestication and human’s evolutionary history with food. This book tells incredible stories about our food system and why it is so important for us to conserve genetic variation in our crops (and how we can be better at it). Dr. Dunn has this amazing ability to dig out all the weird and overlooked, yet important details of scientific endeavors. <br>
