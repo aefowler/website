@@ -7,7 +7,7 @@ output: html_document
 
 [Google scholar](https://scholar.google.com/citations?user=tSQCC-QAAAAJ&hl=en) <br/>
 
-**Fowler AE**, Sadd BM, Bassingthwaite T, Irwin RE, Adler LS. (Accepted) Consuming sunflower pollen reduced pathogen infection but did not alter measures of immunity in bumble bees. *Philosophical Transactions of the Royal Society B: Biological Sciences*.
+**Fowler AE**, Sadd BM, Bassingthwaite T, Irwin RE, Adler LS. 2022. Consuming sunflower pollen reduced pathogen infection but did not alter measures of immunity in bumble bees. *Philosophical Transactions of the Royal Society B: Biological Sciences*. 377: 20210160.
 
 **Fowler AE**, Giacomini JJ, Connon SJ, Irwin RE, Adler LS. 2022. Sunflower pollen reduces a gut pathogen in the model bee species, *Bombus impatiens*, but has weaker effects in three wild congeners. *Proceedings of the Royal Society B*. 298(1968). [(pdf)](Fowler et al. 2022 PRSB.pdf) <br/>
 
