@@ -7,14 +7,13 @@ output: html_document
 
 #### Research Updates:
 
-**January 2022:** I am here at UC Riverside to work on projects related to the bee gut microbiome with [Dr. Quinn McFrederick](https://melittology.ucr.edu/). I have already learned so much already and am looking forward to seeing what we find! 
-<center> <img src="images/ucr.JPG" width="32%"> <img src="images/riverside_mt.JPG" width="35%"> </center>
+**January 2022:** I am here at UC Riverside to work on projects related to the bee gut microbiome with [Dr. Quinn McFrederick](https://melittology.ucr.edu/). I have already learned so much already and am looking forward to seeing what we find! <br>
 
-Also, our paper about how sunflower affects a gut pathogen in multiple bumble bee species has been accepted for publication in *Proceedings of the Royal Society B*. I hope to share the final version soon! 
+<center> <img src="images/ucr.JPG" width="32%"> <img src="images/riverside_mt.JPG" width="35%"> </center> <br>
 
-**November 2021:** Our paper about how sunflower affects the bumble bee immune system has been accepted for publication as part of a special issue in *Philosophical Transactions B*. I think we will be able to share the final version when the issue comes out in March 2022. 
+Also, our paper about how sunflower affects a gut pathogen in multiple bumble bee species has been accepted for publication in *Proceedings of the Royal Society B*!
 
-**April 26, 2021**: Updated my list of [Some of my favorite popular science books](blog_2.html)
+**November 2021:** Our paper about how sunflower affects the bumble bee immune system has been accepted for publication as part of a special issue in *Philosophical Transactions B*! The issue will be out in March 2022. 
 
 **March 29, 2021**: [Maps are the Ultimate Scientific Tool](http://thatslifesci.com/2021-03-29-maps-are-the-ultimate-scientific-tool-afowler/), posted to **That's Life [Science]** 
 
