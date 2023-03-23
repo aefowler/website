@@ -9,7 +9,7 @@ output: html_document
 ### Welcome! 
 </center>
 
-I am a PhD candidate and NSF Fellow in the [Adler Lab](https://blogs.umass.edu/lynnadler/) and the [Organismic and Evolutionary Biology](https://gpls.cns.umass.edu/oeb) program at the University of Massachusetts Amherst. I'm interested in the ecology and evolution of species interactions. On this site, you can find more information about my research interests and see what I'm up to on the blog page. 
+I recently completed my PhD in the [Adler Lab](https://blogs.umass.edu/lynnadler/) and the [Organismic and Evolutionary Biology](https://gpls.cns.umass.edu/oeb) program at the University of Massachusetts Amherst. I'm interested in the ecology and evolution of species interactions. On this site, you can find more information about my research interests and see what I'm up to on the blog page. 
 
 <center> <img src="images/IMG_1230.JPG" width="24%">
 <img src="images/IMG_1307.JPG" width="24%">
