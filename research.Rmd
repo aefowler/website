@@ -11,12 +11,12 @@ output: html_document
 
 ### Species Interactions, Nutritional & Disease Ecology, Social Behavior
 
-I am interested in the evolution and ecology of plant-animal-microbe interactions, including host-parasite and host-symbiont. My dissertation research focused on bees and their interactions with dietary host plants, pathogens (primarily *Crithidia bombi*), and gut bacteria. Pollinators are also essential for ecosystem health, but many species are experiencing population declines. I hope my research improves our understanding of factors that influence bee health as well as supports sustainable food production and the livelihoods of farmers. 
+I am interested in the evolution and ecology of plant-animal-microbe interactions, including host-parasite and host-symbiont. My dissertation research focused on bees and their interactions with dietary host plants, pathogens (primarily *Crithidia bombi*), and gut bacteria. Pollinators are also essential for ecosystem health, but many species are experiencing population declines. I hope my research improves our understanding of factors that influence bee health as well as supports sustainable food production and the livelihoods of farmers. </br>
 </center> 
+ </br>
 
-<center>
-#### Diet, Immunity, & Gut Microbes
-</center>
+**Diet, Immunity, & Gut Microbes**
+
 For my dissertation, I tested whether pollen diet impacts parasite infection in bees by altering the immune system and gut microbiome. Pollen from sunflowers and goldenrod (Family: Asteraceae) reduces a detrimental gut pathogen in bumble bees ([Giacomini et al. 2018](https://www.nature.com/articles/s41598-018-32681-y?ref=marketbulletin), [LoCascio et al. 2019](https://royalsocietypublishing.org/doi/full/10.1098/rsos.190279)). In collaboration with the [Sadd Lab](https://about.illinoisstate.edu/bmsadd/), I investigated how a sunflower pollen diet impacts the bumble bee immune system as a potential mechanism of the reduced infection. We found that consuming sunflower pollen did not significantly affect activity of the immune enzyme phenoloxidase or hemolymph antibacterial activity. You can read more in [Fowler et al., 2022, *Philosophical Transactions B*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0160). 
 
 <center> <img src="images/IMG_12403JPG.JPG" width = 60%></center>
@@ -24,11 +24,15 @@ For my dissertation, I tested whether pollen diet impacts parasite infection in 
 <center> Sunflowers at JM Pasiecnik Farm in Deerfield, MA. </center>
 <br/> 
 
-I am also interested in how diet quality and diversity impact pathogen resistance via changes in the gut microbiome. In collaboration with the [McFrederick Lab](https://melittology.ucr.edu/), I am investigating how a diet of sunflower pollen and parasite infection affects bacterial communities within the gut. These two projects are funded by the USDA National Institute of Food & Agriculture. <br/>
+In addition, I tested how diet quality and diversity impact pathogen resistance via changes in the gut microbiome. In collaboration with the [McFrederick Lab](https://melittology.ucr.edu/), I am investigating how a diet of sunflower pollen and parasite infection affects bacterial communities within the gut. These two projects are funded by the USDA National Institute of Food & Agriculture.
 
-#### Social Behavior
-
+**Social Behavior**
+ 
 I am also interested in the evolution of social behavior and the costs and benefits associated with group living, particularly in the context of parasite transmission and the evolution of host defense. I am studying immune function and gut microbial communities in social (bumble bees) and solitary bees (leafcutter bees). I am comparing patterns to better understand how the adoption of sociality has impacted selection for traits related to pathogen defense such as immunity and the presence of microbial symbionts. This project is funded by a Northeast Sustainable Agriculture Research & Education graduate student grant.
+
+<center> <img src="images/IMG_1794.JPG" width = 50%></br>
+Bumble bee (*Bombus impatiens*) colony in the lab. </center> </br>
+
 
 I am a budding data scientist and excited about writing and sharing code for data processing, visualization, and analysis. [Here is a list of data science resources](datasci.html) that I find helpful. 
 
