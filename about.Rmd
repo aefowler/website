@@ -5,16 +5,13 @@ output: html_document
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-I am originally from Northern Virginia and received my Bachelor's degrees <img src="images/IMG_5006.JPG" width="29%" ALIGN="right"> in Plant Biology and Biological Oceanography from NC State University, where I was mentored by many great scientists, including Drs. [Astrid Schnetzer](https://sites.google.com/a/ncsu.edu/schnetzerlab/home), [Brian Langerhans](http://gambusia.zo.ncsu.edu/index.html), and [Becky Irwin](https://irwinlab.weebly.com/). I'm currently pursuing my PhD in [Organismic & Evolutionary Biology](https://gpls.cns.umass.edu/oeb) with [Dr. Lynn Adler](https://blogs.umass.edu/lynnadler/) at UMass Amherst. Feel free to contact me: aefowler [at] umass.edu or find me on [Twitter](https://twitter.com/alfowlfa). 
+I am originally from Northern Virginia and received my Bachelor's degrees <img src="images/IMG_5006.JPG" width="29%" ALIGN="right"> in Plant Biology and Biological Oceanography from NC State University, where I was mentored by many great scientists, including Drs. [Astrid Schnetzer](https://sites.google.com/a/ncsu.edu/schnetzerlab/home), [Brian Langerhans](http://gambusia.zo.ncsu.edu/index.html), and [Becky Irwin](https://irwinlab.weebly.com/). In February 2023, I received my PhD in [Organismic & Evolutionary Biology](https://gpls.cns.umass.edu/oeb) with [Dr. Lynn Adler](https://blogs.umass.edu/lynnadler/) at UMass Amherst. 
 
-**Helpful links**<br/>
-[UMass Organismic & Evolutionary Biology Graduate Program](https://gpls.cns.umass.edu/oeb) <br/>
-[UMass Biology Department](https://www.bio.umass.edu/biology/) <br/>
-[UMass COVID-19 dashboard](https://www.umass.edu/coronavirus/dashboard)
+Feel free to contact me: alisonefowler [at] gmail.com or find me on [Twitter](https://twitter.com/alfowlfa). 
 
 **Mentors, colleagues & collaborators:**<br/>
 [Dr. Lynn Adler](https://blogs.umass.edu/lynnadler/), University of Massachusetts Amherst <br/>
-[Dr. Rosemary Malfi](https://rmalfiresearch.weebly.com/), University of Massachusetts Amherst <br/>
+[Dr. Rosemary Malfi](https://rmalfiresearch.weebly.com/), Massachusetts Pollinator Network <br/>
 [Dr. Rebecca Irwin](https://irwinlab.weebly.com/), North Carolina State University <br/>
 [Dr. Ben Sadd](https://about.illinoisstate.edu/bmsadd/), Illinois State University <br/>
 [Dr. Quinn McFrederick](https://melittology.ucr.edu/), University of California Riverside <br/>
