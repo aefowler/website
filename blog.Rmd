@@ -7,9 +7,11 @@ output: html_document
 
 #### Research Updates:
 
-**January 2022:** I am here at UC Riverside to work on projects related to the bee gut microbiome with [Dr. Quinn McFrederick](https://melittology.ucr.edu/). I have already learned so much already and am looking forward to seeing what we find! <br>
+**December 2022:** Successfully defended my dissertation! Thank you to all who attended my talk and provided invaluable support, especially Lynn and the Adler Lab. 
 
-<center> <img src="images/ucr.JPG" width="32%"> <img src="images/riverside_mt.JPG" width="35%"> </center> <br>
+**August 2022:** Had fun presenting some of my bee microbiome work at the Ecological Society of America meeting in Montreal! 
+
+**January 2022:** I am here at UC Riverside to work on projects related to the bee gut microbiome with [Dr. Quinn McFrederick](https://melittology.ucr.edu/). I have already learned so much already and am looking forward to seeing what we find! <br>
 
 Also, our paper about how sunflower affects a gut pathogen in multiple bumble bee species has been accepted for publication in *Proceedings of the Royal Society B*!
 
