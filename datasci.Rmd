@@ -3,17 +3,18 @@ title: "Research"
 output: html_document
 ---
 
-[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html) | [Are the bees OK yet?](FAQ.html)
 
 ### Data Science Resources 
 
-* [Data Analysis and Visualization in R for Ecologists]()
-* [Reproducible Research Techniques]()
+* [Data Analysis and Visualization in R for Ecologists](https://datacarpentry.org/R-ecology-lesson/index.html)
+* [Reproducible Research Techniques](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1801)
 * ["R for Data Science" book](https://r4ds.had.co.nz/)
 * [CRAN's Intro to R](https://cran.r-project.org/doc/manuals/R-intro.html)
 * [Happy Git - Intro to Github](https://happygitwithr.com/)
 * [Github interactive tutorials](https://try.github.io/)
 * [Github Version Control tutorials](http://swcarpentry.github.io/git-novice/)
+* [April 2023 paper on using GitHub for ecology and evolution](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14108)
 * [Intro to RMarkdown](https://rmarkdown.rstudio.com/)
 * [RMarkdown: The Definitive Guide](https://bookdown.org/yihui/rmarkdown/)
 * [Building a website using Rmarkdown](https://nceas.github.io/training-rmarkdown-website/tutorial.html) 
