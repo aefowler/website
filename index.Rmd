@@ -9,7 +9,9 @@ output: html_document
 ### Welcome! 
 </center>
 
-I recently completed my PhD in the [Adler Lab](https://blogs.umass.edu/lynnadler/) and the [Organismic and Evolutionary Biology](https://gpls.cns.umass.edu/oeb) program at the University of Massachusetts Amherst. I'm interested in the ecology and evolution of species interactions. My work is motivated by the critical need to conserve of biodiversity, with a focus on species that provide essential ecosystem services, such as pollinators and seed dispersers. On this site, you can find more information about my research and outreach activities.  
+I am a postdoctoral research fellow at the [Smithsonian National Zoo & Conservation Biology Institute](https://nationalzoo.si.edu/conservation), advised by [Dr. Robert Fleischer](https://nationalzoo.si.edu/about/staff/robert-c-fleischer). I recently completed my PhD, advised by [Dr. Lynn Adler](https://blogs.umass.edu/lynnadler/), in the [Organismic and Evolutionary Biology](https://gpls.cns.umass.edu/oeb) program at the University of Massachusetts Amherst. 
+
+I'm interested in the ecology and evolution of species interactions. My work is motivated by the critical need to conserve of biodiversity, with a focus on species that provide essential ecosystem services, such as pollinators and seed dispersers. On this site, you can find more information about my research and outreach activities.  
 
 <center> <img src="images/IMG_1230.JPG" width="24%">
 <img src="images/IMG_1307.JPG" width="24%">
