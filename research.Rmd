@@ -5,36 +5,15 @@ output: html_document
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-<center>
+<center><img src="images/IMG_7741.JPG" width="22%"> <img src="images/IMG_1285.JPG" width="22%"> <img src="images/IMG_8217.JPG" width="24%"> <img src="images/IMG_3617.JPG" width="30%"></center> 
+</br>
 
-<img src="images/IMG_7741.JPG" width="22%"> <img src="images/IMG_1285.JPG" width="22%"> <img src="images/IMG_8217.JPG" width="24%"> <img src="images/IMG_3617.JPG" width="30%"> 
+#### I am interested in the ecology and evolution of plant-animal-microbe interactions, ranging from parasitism to mutualisms. 
 
-### Species Interactions, Nutritional & Disease Ecology, Social Behavior
+Pollinators are essential for ecosystem health, but many species are experiencing population declines. My dissertation research focused on bees and their interactions with dietary host plants, pathogens (primarily *Crithidia bombi*), and gut bacteria. You can learn more about these projects [here](diss_1.html). I hope my research improves our understanding of factors that influence bee health as well as supports sustainable food production and the livelihoods of farmers. </br>
 
-I am interested in the evolution and ecology of plant-animal-microbe interactions, including parasitism and mutualisms. My dissertation research focused on bees and their interactions with dietary host plants, pathogens (primarily *Crithidia bombi*), and gut bacteria. Pollinators are also essential for ecosystem health, but many species are experiencing population declines. I hope my research improves our understanding of factors that influence bee health as well as supports sustainable food production and the livelihoods of farmers. </br>
+My postdoc research at the Smithsonian Conservation Biology Institute will focus on the gut microbiome of yellow-rumped warblers and other songbirds to better understand the role of gut microbes in their digestion of waxy berries.  
 
-<img src="images/diagram.PNG" width = 60%> </center> 
-
-**Diet, Immunity, & Gut Microbes**
-
-For my dissertation, I tested whether pollen diet impacts parasite infection in bees by altering the immune system and gut microbiome. Pollen from sunflowers and goldenrod (Family: Asteraceae) reduces a detrimental gut pathogen in bumble bees ([Giacomini et al., 2018](https://www.nature.com/articles/s41598-018-32681-y?ref=marketbulletin), [LoCascio et al., 2019](https://royalsocietypublishing.org/doi/full/10.1098/rsos.190279)). In collaboration with the [Sadd Lab](https://about.illinoisstate.edu/bmsadd/), I investigated how a sunflower pollen diet impacts the bumble bee immune system as a potential mechanism of the reduced infection. We found that consuming sunflower pollen did not significantly affect activity of the immune enzyme phenoloxidase or hemolymph antibacterial activity. You can read more in [Fowler et al., 2022, *Philosophical Transactions B*](https://royalsocietypublishing.org/doi/abs/10.1098/rstb.2021.0160). 
-
-<center> <img src="images/IMG_12403JPG.JPG" width = 60%> <img src="images/IMG_8216.JPG" width = 18.3%> </center>
-
-<center> Sunflowers at JM Pasiecnik Farm in Deerfield, MA. </center>
-<br/> 
-
-In addition, I am interested in how diet quality and diversity impact pathogen resistance via changes in the gut microbiome. In collaboration with the [McFrederick Lab](https://melittology.ucr.edu/), I am investigating how a diet of sunflower pollen and parasite infection affects bacterial communities within the gut. These two projects are funded by the USDA National Institute of Food & Agriculture.
-
-**Social Behavior**
- 
-I am also interested in the evolution of social behavior and the costs and benefits associated with group living, particularly in the context of parasite transmission and the evolution of host defense. I am studying immune function and gut microbial communities in social (bumble bees) and solitary bees (leafcutter bees). I am comparing patterns to better understand how the adoption of sociality has impacted selection for traits related to pathogen defense such as immunity and the presence of microbial symbionts. This project is funded by a Northeast Sustainable Agriculture Research & Education graduate student grant.
-
-<center> <img src="images/IMG_1794.JPG" width = 40%> <img src="images/IMG_3626.JPG" width = 40%> </br>
-Left: a social bumble bee (*Bombus impatiens*) colony in the lab. Right: a block of individual nests of the alfalfa leafcutter bee (*Megachile rotundata*). </center> </br>
-
-**Data Science**
-
-I am a budding data scientist and excited about writing and sharing code for data processing, visualization, and analysis. [Here is a list of data science resources](datasci.html) that I find helpful. 
+I am also a budding data scientist and excited about writing and sharing code for data processing, visualization, and analysis. [Here is a list of data science resources](datasci.html) that I find helpful. 
 
 **Images of pollinators at top of page.** From left to right: a queen bumble bee (*Bombus sp.*) foraging on *Cordyalis caseana* in the Colorado Rockies; a small carpenter bee (*Ceratina sp.*) on a strawflower (*Xerochrysum bracteatum*) at The Bars Farm in Deerfield, Massachusetts; a worker bumble bee (*Bombus impatiens*) foraging and packing pollen from a sunflower (*Helianthus annuus*) at the UMass permaculture garden on campus; and a golden digger wasp (*Sphex ichneumoneus*) departing from cockscomb (*Celosia argentea*) in Raleigh, North Carolina.
