@@ -7,7 +7,11 @@ output: html_document
 
 [Google scholar](https://scholar.google.com/citations?user=tSQCC-QAAAAJ&hl=en) <br/>
 
-**Fowler AE**, Kola E, Adler LS. The effect of sunflower pollen age and origin on pathogen infection in the common eastern bumble bee (Apidae: Hymenoptera). *Journal of Economic Entomology*. In Press.
+**Fowler AE**, McFrederick QS, Adler LS. 2024. Pollen diet diversity does not affect gut bacterial communities or melanization in a social and solitary bee species. *Microbial Ecology*. 87:25.
+
+Yost RT, **Fowler AE**, Adler LS. 2023 Gut transplants from bees fed an antipathogenic pollen diet do not confer pathogen resistance to recipients. *Microbial Ecology*. 86:3133-3137.  
+
+**Fowler AE**, Kola E, Adler LS. 2023. The effect of sunflower pollen age and origin on pathogen infection in the common eastern bumble bee (Apidae: Hymenoptera). *Journal of Economic Entomology*. toad154.  
 
 Figueroa LL, **Fowler AE**, Lopez S, Amaral VE, Koch H, Stevenson PC, Irwin RE, Adler LS. 2023. Sunflower spines and beyond: mechanisms and breadth of pollen that reduce gut pathogen infection in the common eastern bumble bee. *Functional Ecology*. 00:1-13. [(link)](https://doi.org/10.1111/1365-2435.14320)
 
