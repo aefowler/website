@@ -5,14 +5,20 @@ output: html_document
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-<center><img src="images/IMG_7741.JPG" width="22%"> <img src="images/IMG_1285.JPG" width="22%"> <img src="images/IMG_8217.JPG" width="24%"> <img src="images/IMG_3617.JPG" width="30%"></center> 
+<center><img src="/Users/fowlera/Documents/website/images/IMG_7741.JPG" width="22%"> <img src="/Users/fowlera/Documents/website/images/IMG_1285.JPG" width="22%"> <img src="/Users/fowlera/Documents/website/images/IMG_8217.JPG" width="24%"> <img src="/Users/fowlera/Documents/website/images/IMG_3617.JPG" width="30%"></center> 
 </br>
 
 #### I am interested in the ecology and evolution of plant-animal-microbe interactions, ranging from parasitism to mutualisms. 
 
+##### Dissertation Research: 
+
 Pollinators are essential for ecosystem health, but many species are experiencing population declines. My dissertation research focused on bees and their interactions with dietary host plants, pathogens (primarily *Crithidia bombi*), and gut bacteria. You can learn more about these projects [here](diss_1.html). I hope my research improves our understanding of factors that influence bee health as well as supports sustainable food production and the livelihoods of farmers. </br>
 
-My postdoc research at the Smithsonian Conservation Biology Institute will focus on the gut microbiome of yellow-rumped warblers and other songbirds to better understand the role of gut microbes in their digestion of waxy berries.  
+##### Current Postdoc Research: 
+
+My postdoc research at the Smithsonian Conservation Biology Institute focuses on the gut microbiome of yellow-rumped warblers and other songbirds to better understand the role of gut microbes in their digestion of waxy berries. Below is a poster that summarizes our questions and hypotheses. 
+
+<center><img src = "/Users/fowlera/Documents/website/images/alison_outreach_poster.PNG" width = "75%"> </center>
 
 I am also a budding data scientist and excited about writing and sharing code for data processing, visualization, and analysis. [Here is a list of data science resources](datasci.html) that I find helpful. 
 
