@@ -7,18 +7,9 @@ output: html_document
 
 I love talking to folks about science! Below are some organizations that I have been involved with. Please explore the pages below or send me an email if you are interested in an educational event hosted by one of these groups. We cater to audiences of a wide range of ages and backgrounds. 
 
-##### [Life Science Cafe](https://oebsciencecafe.org/): Monthly talks and Q&A sessions with scientists.  
+##### [Life Science Cafe](https://sci-stories.org/life-science-cafe/): Monthly talks and Q&A sessions with scientists.  
 
-* [Sign up](https://us13.list-manage.com/subscribe?u=0815deaeb0f72a609b883f842&id=39d6371adf) for the email list to hear about how to join our next talk. 
-
-##### [The Fernald Club](https://www.fernaldclub.org/home): UMass Entomology Club; we share insect science with local students and other groups. 
-
-* [Follow Fernald Club on Instagram](https://www.instagram.com/umassfernaldclub/).
-
-##### [That's Life [Science]](http://thatslifesci.com/): Blog and outreach group run by UMass graduate students. 
-
-* Check out [my author page](http://thatslifesci.com/authors/afowler/) on TLS. 
-* [Follow TLS on Instagram](https://www.instagram.com/thatslifesci/) <br/>
+##### [The Fernald Club](https://www.instagram.com/umassfernaldclub/): UMass Entomology Club; we share insect science with local students and other groups. 
 
 ##### For more information about pollinators:
 
