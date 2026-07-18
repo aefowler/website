@@ -3,7 +3,7 @@ title: "About Me"
 output: html_document
 ---
 
-[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Gallery](gallery.html)
 
 I am originally from Northern Virginia and received my Bachelor's degrees <img src="images/IMG_5006.JPG" width="29%" ALIGN="right"> in Plant Biology and Biological Oceanography from NC State University. I received my PhD in Organismic & Evolutionary Biology from the University of Massachusetts Amherst in 2023 and am currently a postdoctoral researcher in the Department of Natural Sciences at Bowie State University. 
 

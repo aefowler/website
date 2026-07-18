@@ -3,7 +3,7 @@ title: "Outreach"
 output: html_document
 ---
 
-[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Gallery](gallery.html)
 
 I love talking to folks about science! Below are some organizations that I have been involved with. Please explore the pages below or send me an email if you are interested in an educational event hosted by one of these groups. We cater to audiences of a wide range of ages and backgrounds. 
 
@@ -20,7 +20,7 @@ I love talking to folks about science! Below are some organizations that I have 
 
 <center> <img src="images/IMG_6434.JPG" width="29.4%"> <img src="images/IMG_0715.JPG" width="32%"> <img src="images/IMG_2035.JPG" width="32%"> </center>
 <br/>
-<center> From left to right: making bee hotels with participants in an event hosted by the North Carolina Museum of Natural Science; hosting a workshop about pollinators and botany for middle school girls through the [Eureka! Program](https://www.girlsincvalley.org/portfolio/eureka/); hosting a workshop for Girl Scouts to receive their "Animal Habitat Badge" through [That's Life Science](http://thatslifesci.com/). </center>  
+<center> From left to right: making bee hotels with participants in an event hosted by the North Carolina Museum of Natural Science; hosting a workshop about pollinators and botany for middle school girls through the [Eureka! Program](https://www.girlsincvalley.org/); hosting a workshop for Girl Scouts to receive their "Animal Habitat Badge" through That's Life Science. </center>  
 <br/>
 
 <center> <img src="images/IMG_2385.JPG" width="29.4%"> <img src="images/Dara.jpg" width="33%"> </center>

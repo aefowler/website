@@ -3,7 +3,7 @@ title: "Alison E. Fowler"
 output: html_document
 ---
 
-[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
+[Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Gallery](gallery.html)
 
 <center>
 ### Welcome! 
