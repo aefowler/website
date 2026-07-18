@@ -5,15 +5,22 @@ output: html_document
 
 [Home](index.html)  |  [Research](research.html)  |  [Publications](pubs.html)  |  [Outreach](outreach.html)  |  [About](about.html) | [Blog](blog.html) | [Gallery](gallery.html)
 
-I am originally from Northern Virginia and received my Bachelor's degrees <img src="images/IMG_5006.JPG" width="29%" ALIGN="right"> in Plant Biology and Biological Oceanography from NC State University, where I was mentored by many great scientists, including Drs. [Astrid Schnetzer](https://sites.google.com/a/ncsu.edu/schnetzerlab/home), [Brian Langerhans](http://gambusia.zo.ncsu.edu/index.html), and [Becky Irwin](https://irwinlab.weebly.com/). In February 2023, I received my PhD in [Organismic & Evolutionary Biology](https://gpls.cns.umass.edu/oeb), mentored by [Dr. Lynn Adler](https://blogs.umass.edu/lynnadler/) at UMass Amherst. 
+I am originally from Northern Virginia and received my Bachelor's degrees <img src="images/IMG_5006.JPG" width="29%" ALIGN="right"> in Plant Biology and Biological Oceanography from NC State University. I received my PhD in Organismic & Evolutionary Biology from the University of Massachusetts Amherst in 2023 and am currently a postdoctoral researcher in the Department of Natural Sciences at Bowie State University. 
 
-Feel free to contact me: alisonefowler [at] gmail.com or find me on [Twitter](https://twitter.com/alfowlfa). 
+Feel free to contact me: alisonefowler [at] gmail.com.
 
-**Mentors, colleagues & collaborators:**<br/>
+**Mentors & collaborators:**<br/>
+[Dr. Priscila Chaverri](https://www.usgs.gov/staff-profiles/terry-chesser), Bowie State University <br/>
+[Dr. Rob Fleischer](https://nationalzoo.si.edu/about/staff/robert-c-fleischer), Smithsonian Conservation Biology Institute <br/>
+[Dr. Terry Chesser](https://www.usgs.gov/staff-profiles/terry-chesser), Smithsonian and USGS <br/>
 [Dr. Lynn Adler](https://blogs.umass.edu/lynnadler/), University of Massachusetts Amherst <br/>
-[Dr. Rosemary Malfi](https://rmalfiresearch.weebly.com/), The Xerces Society for Invertebrate Conservation <br/>
-[Dr. Rebecca Irwin](https://irwinlab.weebly.com/), North Carolina State University <br/>
+[Dr. Rosemary Malfi](https://www.xerces.org/staff/rosemary-malfi), The Xerces Society for Invertebrate Conservation <br/>
+[Dr. Becky Irwin](https://irwinlab.weebly.com/), North Carolina State University <br/>
 [Dr. Ben Sadd](https://about.illinoisstate.edu/bmsadd/), Illinois State University <br/>
 [Dr. Quinn McFrederick](https://melittology.ucr.edu/), University of California Riverside <br/>
-[Dr. Laura Figueroa](https://restorativecologies.weebly.com/), University of Massachusetts Amherst
+[Dr. Laura Figueroa](https://restorativecologies.weebly.com/), University of Massachusetts Amherst <br/>
+[Dr. Astrid Schnetzer](https://ccape.ncsu.edu/), North Carolina State University <br/>
+[Dr. Brian Langerhans](http://gambusia.zo.ncsu.edu/index.html), North Carolina State University 
+
+
 
